@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Shea Taylor]]></title>
+        <description><![CDATA[Shea Taylor]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 04 May 2016 02:21:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PORTFOLIO]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e21ce0f-4384-4692-bc28-34bacb6a6f29.jpg">]]></description>
+            <link>undefinedportfolio/index.html</link>
+            <guid isPermaLink="false">1a014d39-6b26-4bb2-85d3-1ee0207e092a</guid>
+            <pubDate>Wed, 04 May 2016 02:21:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
